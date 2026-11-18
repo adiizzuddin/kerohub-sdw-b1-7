@@ -1,4 +1,4 @@
-Markdown# # KeroHub: Local Crackers Factory Inventory & Bulk Order Management System
+KeroHub: Local Crackers Factory Inventory & Bulk Order Management System
 
 Sistem pengurusan inventori dan tempahan pukal berasaskan web untuk *Kilang Keropok QFIS* (Melaka), dibangunkan bagi subjek *DITU3934 System Development Workshop & Web Programming* (Semester 2 DFDS 2026).
 
